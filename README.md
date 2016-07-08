@@ -1,0 +1,2 @@
+# Python-algorythms
+Pure Algorytm
