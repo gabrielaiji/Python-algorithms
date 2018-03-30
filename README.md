@@ -9,4 +9,4 @@ DM7 : http://mathadomicile.fr/2de/2Chap7DevoirCorrection.pdf
 
 DM8 : http://mathadomicile.fr/2de/2Chap8DevoirCorrection.pdf
 
-The website was deleted... (⌣_⌣”) ((´д｀))
+The website was deleted... ((´д｀))
