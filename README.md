@@ -8,3 +8,5 @@ Each folder represents a certain exercice, in which you'll find a path to a subj
 DM7 : http://mathadomicile.fr/2de/2Chap7DevoirCorrection.pdf
 
 DM8 : http://mathadomicile.fr/2de/2Chap8DevoirCorrection.pdf
+
+The website have been deleted... (⌣_⌣”)
