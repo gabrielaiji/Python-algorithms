@@ -1,4 +1,4 @@
-# Python-algorythms
+# Python-algorithms
 Algorythms
 
 These algorythms have been coded for education purposes.
